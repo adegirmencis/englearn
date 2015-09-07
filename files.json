@@ -1,48 +1,24 @@
 {
-"version":"1",
-"date":"01.09.2015",
-"files":{
-"classic":[
-{
-"file":"1.json",
-"question_count":10
-},
-{
-"file":"2.json",
-"question_count":10
-},
-{
-"file":"2.json",
-"question_count":10
-}
-],
-"write":[
-{
-"file":"1.json",
-"question_count":10
-},
-{
-"file":"2.json",
-"question_count":10
-},
-{
-"file":"2.json",
-"question_count":10
-}
-],
-"listen":[
-{
-"file":"1.json",
-"question_count":10
-},
-{
-"file":"2.json",
-"question_count":10
-},
-{
-"file":"2.json",
-"question_count":10
-}
-]
-}
+
+    "version":"1",
+    "date":"07.09.2015",
+    "directory":"",
+    "files":[
+        {
+            "directory":"basic",
+            "filename":"1.json",
+            "download_link":"https:\/\/raw.githubusercontent.com\/adegirmencis\/englearn\/master\/1.json"
+        },
+        {
+            "directory":"intermediate",
+            "filename":"1.json",
+            "download_link":"https:\/\/raw.githubusercontent.com\/adegirmencis\/englearn\/master\/1.json"
+        },
+        {
+            "directory":"advanced",
+            "filename":"1.json",
+            "download_link":"https:\/\/raw.githubusercontent.com\/adegirmencis\/englearn\/master\/1.json"
+        }
+    ]
+
 }
